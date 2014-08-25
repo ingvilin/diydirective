@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title>ng-model</title>
+    <script src="js/angular/angular.js"></script>
+   <script>
+      angular.module('bekkApp', []);
+   </script>
+</head>
+<body>
+
+<div ng-app="bekkApp">
+     <input ng-model="team.name">
+    <h2 style="color: #fff; font-size: 6em;"> <span style="color: #fff">Hello, {{team.name}}</span></h2>
+</div>
+
+</body>
+</html>
