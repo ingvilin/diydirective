@@ -1,0 +1,17 @@
+<!doctype html>
+<html ng-app="plunker" >
+<head>
+  <meta charset="utf-8">
+  <title>AngularJS Plunker</title>
+  <link rel="stylesheet" href="style.css">
+  <script>document.write("<base href=\"" + document.location + "\" />");</script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.2/angular.js"></script>
+  <script src="app.js"></script>
+</head>
+<body>
+  <p>Tweet</p>
+   <input ng-model="twitter" type="textarea" >
+   <div twitter-directive tweet="twitter"></div>
+</body>
+</html>
