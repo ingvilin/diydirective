@@ -145,7 +145,6 @@ Er det aksept av strings, template vs expression. Se ng-hide.
 * 
 ## TODO:
 
-- Tine flytter all koden til github
 - Klarer vi å forklarer hello-world eksempelet? 
 
 ## Timing
