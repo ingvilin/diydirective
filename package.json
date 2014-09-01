@@ -1,0 +1,22 @@
+{
+  "name": "diydirective",
+  "version": "0.0.0",
+  "description": "diydirective ============",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ingvilin/diydirective.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ingvilin/diydirective/issues"
+  },
+  "homepage": "https://github.com/ingvilin/diydirective",
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  }
+}
