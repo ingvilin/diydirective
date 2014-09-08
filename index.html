@@ -11,17 +11,21 @@
 
   <link rel="stylesheet" href="lib/bootstrap-3.2.0-dist/css/bootstrap.min.css">
   <link rel="stylesheet" href="lib/bootstrap-3.2.0-dist/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="styling.css">
   <script src="lib/bootstrap-3.2.0-dist/js/bootstrap.min.js"></script>
 
 </head>
 <body ng-app='directiveDemo'>
+  <div class="twitter-content">
 
   <button type="button" class="btn btn-default btn-default">
     <span class="glyphicon glyphicon-send"></span> Send
   </button>
-
-  <p>Tweet</p>
-  <input ng-model="twitter" type="textarea" >
-  <div twitter-directive tweet="twitter"></div>
+    <div class="center-block twitter">
+    <p>Tweet it:</p>
+      <textarea ng-model="tweet" ></textarea>
+      <div twitter-directive  ></div>
+    </div>
+  </div>
 </body>
 </html>
