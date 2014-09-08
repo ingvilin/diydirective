@@ -110,9 +110,6 @@ Her må vi ha en liten! forklaring på plass for å ikke rote oss inn i isloated
 
 Tweet Ingvild ser på dette i en egen plunkr
 
-    
-
-
 
 ## Hva er neste runde etter dette?
 
@@ -145,7 +142,7 @@ Er det aksept av strings, template vs expression. Se ng-hide.
 * 
 ## TODO:
 
-- Tine flytter all koden til github
+- Legge til lenke til repoet?
 - Klarer vi å forklarer hello-world eksempelet? 
 
 ## Timing
@@ -155,3 +152,4 @@ Er det aksept av strings, template vs expression. Se ng-hide.
 -- Navn, NTNU, startet, kunde?
 -- community, google, 
 - Koding
+
