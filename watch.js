@@ -3,7 +3,7 @@
     app.directive('twitterDirective', function(){
       return{ 
         scope: true,
-         template: '<p> {{teller}} {{tweet}} </p>',
+         template: '<p> {{teller}} </p>',
         link: function (scope) {
             scope.teller = 140;
 
