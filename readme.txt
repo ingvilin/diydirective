@@ -142,7 +142,7 @@ Er det aksept av strings, template vs expression. Se ng-hide.
 * 
 ## TODO:
 
-- Avslutningsslide med lenker
+- Avslutningsslide med lenker (Tine)
   -- vårt repo https://github.com/ingvilin/diydirective
 
   -- ng-dok https://angularjs.org/
@@ -152,16 +152,19 @@ Er det aksept av strings, template vs expression. Se ng-hide.
 
   -- kontaktinfoen vår :)
 
-* Fasit-branch
-* Gjøre klar master til å være starten av oppgaven
-* Oppdatere og legge til en ny figur med scope
+* Fasit-branch (begge)
+* Gjøre klar master til å være starten av oppgaven (Ingvild)
+* Oppdatere og legge til en ny figur med scope (Ingvild)
+* Slette Batarang-sliden (Tine)
 
 
 ## Timing
 
-- Intro : hello-world + diy - 3-4 min
+- Intro : hello-world + diy 
 -- Rett på sak!, toveis, direktiv som feature, tett knyning mellom direktiv og toveisbindinger
 -- Navn, NTNU, startet, kunde?
--- community, google, 
-- Koding
+-- community, google -> 3 min
+- Koding i script.js -> 18 min
+- watch.js -> 25 min
+- avslutning -> 26 min
 
