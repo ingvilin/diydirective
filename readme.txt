@@ -142,8 +142,17 @@ Er det aksept av strings, template vs expression. Se ng-hide.
 * 
 ## TODO:
 
-- Legge til lenke til repoet?
-- Klarer vi å forklarer hello-world eksempelet? 
+- Avslutningsslide med lenker
+  -- vårt repo https://github.com/ingvilin/diydirective
+
+  -- ng-dok https://angularjs.org/
+  -- custom-directives https://docs.angularjs.org/guide/directive
+  -- https://egghead.io/
+  -- http://www.ng-newsletter.com/posts/directives.html
+
+  -- kontaktinfoen vår :)
+
+
 
 ## Timing
 
