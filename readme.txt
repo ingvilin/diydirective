@@ -152,6 +152,9 @@ Er det aksept av strings, template vs expression. Se ng-hide.
 
   -- kontaktinfoen vår :)
 
+* Fasit-branch
+* Gjøre klar master til å være starten av oppgaven
+* Oppdatere og legge til en ny figur med scope
 
 
 ## Timing
