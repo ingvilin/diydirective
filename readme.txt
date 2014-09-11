@@ -142,20 +142,11 @@ Er det aksept av strings, template vs expression. Se ng-hide.
 * 
 ## TODO:
 
-- Avslutningsslide med lenker (Tine)
-  -- vårt repo https://github.com/ingvilin/diydirective
-
-  -- ng-dok https://angularjs.org/
-  -- custom-directives https://docs.angularjs.org/guide/directive
-  -- https://egghead.io/
-  -- http://www.ng-newsletter.com/posts/directives.html
-
-  -- kontaktinfoen vår :)
 
 * Fasit-branch (begge)
 * Gjøre klar master til å være starten av oppgaven (Ingvild)
 * Oppdatere og legge til en ny figur med scope (Ingvild)
-* Slette Batarang-sliden (Tine)
+
 
 
 ## Timing
