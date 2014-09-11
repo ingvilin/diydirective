@@ -6,6 +6,7 @@
          template: '<p> {{teller}} </p>',
         link: function (scope) {
             scope.teller = 140;
+            console.log(scope.tweet)
 
             scope.$watch(function () {
                 return scope.tweet;
