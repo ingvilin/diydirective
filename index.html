@@ -17,14 +17,18 @@
 <body ng-app='directiveDemo'>
   <div class="twitter-content">
 
-  <button type="button" class="btn btn-default btn-default">
-    <span class="glyphicon glyphicon-send"></span> Send
-  </button>
-    <div class="center-block twitter">
-    <p>Tweet it:</p>
-      <textarea ng-model="tweet" ></textarea>
+  <div demo-button title='Tweet'></div>
+  
+  <div demo-button title='Send epost'></div>
+  <div demo-button></div>
+
+  <div class="center-block twitter">
+  <p>Tweet it:</p>
+     <textarea ng-model="tweet" ></textarea>
       <div twitter-directive  ></div>
     </div>
+  </div>
+    
   </div>
 </body>
 </html>
