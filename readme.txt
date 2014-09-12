@@ -140,12 +140,6 @@ Er det aksept av strings, template vs expression. Se ng-hide.
 * selve API
 * controllers
 * 
-## TODO:
-
-
-* Fasit-branch (begge)
-* Gjøre klar master til å være starten av oppgaven (Ingvild)
-* Oppdatere og legge til en ny figur med scope (Ingvild)
 
 
 
